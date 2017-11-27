@@ -58,7 +58,7 @@ What is DevOps? (https://en.wikipedia.org/wiki/DevOps)
 
 ##### 6. Publish Your Work
 - Use git `add`, `commit`, and `push` to the forked repository.
-- Send pull request to the HR Manager.
+- Send pull request to the HR Manager. You need to 'compare across forks'.
 - The HR Manager will provide you address of **submission form** and **approval code** (ex: 0407). Take note.
 - The HR Manager will send you back anyway you fail to complete all the tasks above.
 
@@ -74,7 +74,7 @@ What is DevOps? (https://en.wikipedia.org/wiki/DevOps)
 - (+1) You have your GitHub repository
 - (+1) You sent the access information of your “running” jupyter notebook
 - (+1) You sent the access information of your VM
-- (+1) You coded something appeal to HR Manager
+- (+1) You coded something of your own appealing to HR Manager
 
 ### Questions on the HW
 
