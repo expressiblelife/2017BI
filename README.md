@@ -74,7 +74,7 @@ What is DevOps? (https://en.wikipedia.org/wiki/DevOps)
 - (+1) You have your GitHub repository
 - (+1) You sent the access information of your “running” jupyter notebook
 - (+1) You sent the access information of your VM
-- (+1) You coded something appeal to HR Manager
+- (+1) You coded something of your own appealing to HR Manager
 
 ### Questions on the HW
 
