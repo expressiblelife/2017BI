@@ -58,7 +58,7 @@ What is DevOps? (https://en.wikipedia.org/wiki/DevOps)
 
 ##### 6. Publish Your Work
 - Use git `add`, `commit`, and `push` to the forked repository.
-- Send pull request to the HR Manager.
+- Send pull request to the HR Manager. You need to 'compare across forks'.
 - The HR Manager will provide you address of **submission form** and **approval code** (ex: 0407). Take note.
 - The HR Manager will send you back anyway you fail to complete all the tasks above.
 
